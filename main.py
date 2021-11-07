@@ -7,7 +7,7 @@ import tensorflow as tf
 print(tf.__version__)
 #In[]:
 
-EPOCHS = 1
+EPOCHS = 1 
 # GRADED FUNCTION: train_mnist
 def train_mnist():
     # Please write your code only where you are indicated.
